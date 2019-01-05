@@ -1,0 +1,132 @@
+body {
+	margin: 0;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+
+.Top-Container {
+	background-color: #E4F9F5;
+	position: relative;
+	padding-top: 150px;
+}
+
+.bottom-container {
+	padding-top: 20px;
+	background-color: #66BFBF;
+}
+
+h1 {
+	margin: 0;
+	font-family: 'Sacramento', cursive;
+	font-size: 80px;
+	color: #66BFBF;
+}
+
+
+
+.Profile-Pic {
+	width: 200px;
+	height: 250px;
+	border-radius: 100%;
+	margin-top: 30px;
+}
+
+.Coding-Pic {
+	
+	width: 140px;
+	height: 140px;
+	border-radius: 100%;
+	float: left;
+	margin-right: 20px;
+}
+
+.Gaming-Pic {
+
+	width: 140px;
+	height: 140px;
+	border-radius: 100%;
+	float: right;
+	margin-left: 20px;
+
+}
+
+.Top-Cloud {
+	position: absolute;
+	right: 450px;
+	top: 80px;
+}
+
+.Bottom-Cloud {
+	position: absolute;
+	left: 400px;
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	color: #66BFBF;
+	
+}
+
+.My-Description {
+	color: #66BFBF;
+	font-weight: normal;
+	margin-top: 0;
+}
+
+h3 {
+	font-family: 'Montserrat', sans-serif;
+	color: #11999E;
+}
+
+/*p {
+	margin: 0 auto 5px auto;
+	font-size: 15px;
+
+}*/
+
+a {
+	color: #11999E;
+	padding: 20px;
+}
+
+.CopyRight  {
+	margin: 0 auto 0 auto;
+	font-size: 20px;
+	width: 55%;
+	color: #EAF6F6;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.btn {
+	line-height: 5;
+	background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.skill-row {
+	width: 50%;
+	margin: 0 auto 0 auto;
+	text-align: left;
+	line-height: 2;
+}
+
+hr {
+	border-style: none;
+	border-top-style: dotted;
+	border-color: grey;
+	border-width: 5px;
+	width: 5%;
+}
